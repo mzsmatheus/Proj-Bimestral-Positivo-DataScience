@@ -1,6 +1,6 @@
 # Proj-Bimestral-Positivo-DataScience
 
-# Data-Science-Primeira-Entrega
+# Data-Science-Segunda-Entrega
 
 Este repositório contém os arquivos da Análise Exploratória que será utilizada como trabalho bimestral
 ### Turma: BSI - Quarta (Noite)
