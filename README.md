@@ -1,8 +1,8 @@
-# Proj-Bimestral-Positivo-DataScience
+# Proj-Bimestral-Positivo-DataScience-DataSet-Odontologia
 
 # Data-Science-Segunda-Entrega
 
-Este repositório contém os arquivos da Análise Exploratória que será utilizada como trabalho bimestral
+Este repositório contém os arquivos da Análise Exploratória do DataSet de Perfil de atendimento Odontológico nas Unidades Municipais de Saúde de Curitiba, que será utilizada como trabalho bimestral
 ### Turma: BSI - Quarta (Noite)
 ### Nome: Matheus Zalamena e Souza - RGM: 12948128
 
